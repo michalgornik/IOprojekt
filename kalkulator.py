@@ -1,6 +1,6 @@
-def dodaj():
-	a = int(input())
-	b = int(input())
+def dodaj(a,b):
+	a = int(a)
+	b = int(b)
 	print(a+b)
 
 print('Helllo world')
