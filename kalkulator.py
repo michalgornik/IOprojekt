@@ -1,7 +1,7 @@
 def dodaj(a,b):
 	a = int(a)
 	b = int(b)
-	print(a+b)
+	return(a+b)
 
 print('Helllo world')
-dodaj()
+dodaj(3,4)
